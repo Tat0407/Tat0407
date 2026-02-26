@@ -5,6 +5,7 @@
   - 📚 Aprendiendo lenguajes, procesos y todo lo necesario para construir algo grande.
   - ❤️ Situación sentimental: No estoy aceptando solicitudes en esta área.
   - 🚀 Meta: Crecer profesionalmente y construir algo grande.
+
 Un brawl? Jaja... Até mais 👋
 <!--
 **Tat0407/Tat0407** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
